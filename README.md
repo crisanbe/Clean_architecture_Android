@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rick and Morty (Clean Architecture Platzi App)
 
 Éste es el proyecto para el curso de Clean Architecture en Android. Con esta aplicación los usuarios pueden ver todos los personajes de la serie de televisión Rick y Morty. 
@@ -65,3 +66,6 @@ Este proyecto utiliza Dagger para gestionar la inyección de dependencia.
 ## Copyright
 
 The open source API of Rick and Morty used in this project is provided by the following site: https://rickandmortyapi.com/
+=======
+# Clean_architecture_Android
+>>>>>>> 761c8aaea3c17f4eb24bc2376aad07393836ad73
